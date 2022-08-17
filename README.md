@@ -15,10 +15,10 @@ Next, copy in your strip_punctuation function and define a function called get_n
 
 Finally, copy in your previous functions and write code that opens the file project_twitter_data.csv which has the fake generated twitter data (the text of a tweet, the number of retweets of that tweet, and the number of replies to that tweet). Your task is to build a sentiment classifier, which will detect how positive or negative each tweet is. Copy the code from the code windows above, and put that in the top of this code window. Now, you will write code to create a csv file called resulting_data.csv, which contains the Number of Retweets, Number of Replies, Positive Score (which is how many happy words are in the tweet), Negative Score (which is how many angry words are in the tweet), and the Net Score (how positive or negative the text is overall) for each tweet. The file should have those headers in that order. Remember that there is another component to this project. You will upload the csv file to Excel or Google Sheets and produce a graph of the Net Score vs Number of Retweets. Check Coursera for that portion of the assignment, if you’re accessing this textbook from Coursera.</br>
 
-Project - Part 2: Sentiment Analysis
+# Project - Part 2: Sentiment Analysis
 Instructions for Submission: Using the resulting .csv file from your answers to part one of the Sentiment Classifier project, create a scatterplot of the Number of Retweets vs the Net Score using Excel, Google Sheets, or another software package of your choosing. Review the Introductory video for this project if you are unsure of how the graph should look, approximately. Be sure to correctly label your axes and give it a meaningful title! You will upload a screenshot of your scatterplot for submission, and review 3 other submissions to check other students work.</br>
 
-Review criteria
+Review criteria</br>
 
 Instructions for Grading: You will be reviewing other students’ submissions to make sure that they have correctly constructed the scatterplot of Number of Retweets vs Net Score.</br>
 
